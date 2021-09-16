@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.exe
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.deps.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\bin\Debug\netcoreapp3.1\InstagramAgeValidation.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\InstagramAgeValidation\obj\Debug\netcoreapp3.1\InstagramAgeValidation.genruntimeconfig.cache

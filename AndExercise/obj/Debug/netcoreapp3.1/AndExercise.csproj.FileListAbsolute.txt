@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.exe
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.deps.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\bin\Debug\netcoreapp3.1\AndExercise.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\AndExercise\obj\Debug\netcoreapp3.1\AndExercise.genruntimeconfig.cache

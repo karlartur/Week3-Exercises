@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.exe
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.deps.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\bin\Debug\netcoreapp3.1\WeatherReport.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.dll
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.pdb
+C:\Users\opilane\source\repos\logitpe21\Week3Exercises\WeatherReport\obj\Debug\netcoreapp3.1\WeatherReport.genruntimeconfig.cache
